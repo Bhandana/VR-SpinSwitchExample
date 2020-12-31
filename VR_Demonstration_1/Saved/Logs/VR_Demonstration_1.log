@@ -5106,3 +5106,12 @@ Script Stack (0 frames):
 [2020.12.31-06.17.09:028][379]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.31-06.17.09:029][379]LogContentValidation: Display: Validating World /Game/BhandanaDesign/Maps/ExampleMap.ExampleMap
 [2020.12.31-06.17.09:029][379]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BhandanaDesign/Maps/ExampleMap_BuiltData.ExampleMap_BuiltData
+[2020.12.31-06.17.59:231][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.12.31-06.18.07:062][297]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.12.31-06.18.22:565][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.12.31-06.18.22:612][ 63]LogSavePackage: Moving '../../../../../Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/ExampleMap407C3DED4F85F3DDC5B3D98C63A58924.tmp' to '../../../../../Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Content/BhandanaDesign/Maps/ExampleMap.umap'
+[2020.12.31-06.18.22:701][ 63]LogSavePackage: Moving '../../../../../Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/ExampleMap_BuiltData7FFDE81F4798B8870E72DBBA50AD46F4.tmp' to '../../../../../Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Content/BhandanaDesign/Maps/ExampleMap_BuiltData.uasset'
+[2020.12.31-06.18.22:716][ 63]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.31-06.18.22:716][ 63]LogContentValidation: Display: Validating World /Game/BhandanaDesign/Maps/ExampleMap.ExampleMap
+[2020.12.31-06.18.22:716][ 63]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BhandanaDesign/Maps/ExampleMap_BuiltData.ExampleMap_BuiltData
+[2020.12.31-06.18.24:264][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
