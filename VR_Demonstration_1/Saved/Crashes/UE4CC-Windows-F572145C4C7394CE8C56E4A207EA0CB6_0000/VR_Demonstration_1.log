@@ -1,0 +1,1202 @@
+﻿Log file open, 12/31/20 17:06:28
+LogInit: Display: Running engine for game: VR_Demonstration_1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.184032
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.44.0
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/EpicGames/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Engine.ini]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Engine.ini]
+[2020.12.31-06.06.29:467][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Engine.ini]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.31-06.06.29:467][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.31-06.06.29:468][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.31-06.06.29:468][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.31-06.06.29:468][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Engine.ini]
+[2020.12.31-06.06.29:468][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.31-06.06.29:468][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.31-06.06.29:468][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.31-06.06.29:468][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.31-06.06.29:468][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.31-06.06.29:468][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.31-06.06.29:468][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.31-06.06.29:468][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.31-06.06.29:468][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.31-06.06.29:468][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.31-06.06.29:468][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.31-06.06.29:468][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.31-06.06.29:468][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.31-06.06.29:468][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Engine.ini]
+[2020.12.31-06.06.29:468][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Engine.ini]
+[2020.12.31-06.06.29:471][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Scalability.ini]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Scalability.ini]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Scalability.ini]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Scalability.ini]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.31-06.06.29:471][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Scalability.ini]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Scalability.ini]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Scalability.ini]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Scalability.ini]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.31-06.06.29:472][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.31-06.06.29:472][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.31-06.06.29:472][  0]LogHAL: Display: Platform has ~ 16 GB [17073156096 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.31-06.06.29:472][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.31-06.06.29:472][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Scalability.ini]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Scalability.ini]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Scalability.ini]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.31-06.06.29:472][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Scalability.ini]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Scalability.ini]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Scalability.ini]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.31-06.06.29:473][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Scalability.ini]
+[2020.12.31-06.06.29:473][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.31-06.06.29:474][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.31-06.06.29:474][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Scalability.ini]
+[2020.12.31-06.06.29:474][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.31-06.06.29:474][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.31-06.06.29:474][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.31-06.06.29:474][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.31-06.06.29:474][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.31-06.06.29:474][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.31-06.06.29:474][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.31-06.06.29:474][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.31-06.06.29:474][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.31-06.06.29:474][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.31-06.06.29:474][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.31-06.06.29:474][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Config/Windows/Engine.ini]
+[2020.12.31-06.06.29:474][  0]LogInit: Computer: DESKTOP-QV51NHG
+[2020.12.31-06.06.29:474][  0]LogInit: User: TVGme
+[2020.12.31-06.06.29:474][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.12.31-06.06.29:474][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.31-06.06.29:474][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.12.31-06.06.29:474][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.31-06.06.29:474][  0]LogMemory: Process Physical Memory: 119.75 MB used, 119.76 MB peak
+[2020.12.31-06.06.29:474][  0]LogMemory: Process Virtual Memory: 109.03 MB used, 109.03 MB peak
+[2020.12.31-06.06.29:474][  0]LogMemory: Physical Memory: 7707.29 MB used,  8574.94 MB free, 16282.23 MB total
+[2020.12.31-06.06.29:474][  0]LogMemory: Virtual Memory: 5216.36 MB used,  134212512.00 MB free, 134217728.00 MB total
+[2020.12.31-06.06.29:479][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.31-06.06.29:505][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.31-06.06.29:505][  0]LogInit: Using OS detected language (en-US).
+[2020.12.31-06.06.29:506][  0]LogInit: Using OS detected locale (en-US).
+[2020.12.31-06.06.29:508][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.31-06.06.29:677][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.31-06.06.29:718][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.31-06.06.29:719][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.31-06.06.29:869][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.31-06.06.29:869][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.31-06.06.29:869][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.31-06.06.29:869][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.31-06.06.29:960][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.12.31-06.06.29:960][  0]LogD3D11RHI:       5980/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.31-06.06.29:978][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.12.31-06.06.29:978][  0]LogD3D11RHI:       128/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.31-06.06.29:979][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.31-06.06.29:979][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.31-06.06.29:979][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.31-06.06.29:986][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.31-06.06.29:986][  0]LogD3D11RHI:     GPU DeviceId: 0x1f11 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.31-06.06.29:986][  0]LogWindows: EnumDisplayDevices:
+[2020.12.31-06.06.29:986][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.31-06.06.29:987][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.31-06.06.29:987][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.31-06.06.29:987][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2020.12.31-06.06.29:987][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.12.31-06.06.29:987][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.12.31-06.06.29:988][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.12.31-06.06.29:988][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.12.31-06.06.29:988][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.12.31-06.06.29:988][  0]LogD3D11RHI:   Driver Version: 417.59 (internal:25.21.14.1759, unified:417.59)
+[2020.12.31-06.06.29:988][  0]LogD3D11RHI:      Driver Date: 12-28-2018
+[2020.12.31-06.06.29:988][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.12.31-06.06.30:056][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.31-06.06.30:056][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.31-06.06.30:056][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.31-06.06.30:126][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.12.31-06.06.30:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.31-06.06.30:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.31-06.06.30:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.31-06.06.30:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.31-06.06.30:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.31-06.06.30:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.31-06.06.30:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.31-06.06.30:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.31-06.06.30:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.31-06.06.30:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.31-06.06.30:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.31-06.06.30:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.31-06.06.30:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.31-06.06.30:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.31-06.06.30:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.31-06.06.30:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.31-06.06.30:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.31-06.06.30:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.31-06.06.30:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.31-06.06.30:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.31-06.06.30:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.31-06.06.30:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.31-06.06.30:565][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.31-06.06.30:565][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.31-06.06.30:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.31-06.06.30:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.31-06.06.30:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.31-06.06.30:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.31-06.06.30:601][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.31-06.06.30:607][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.31-06.06.30:667][  0]LogShaderCompilers: Guid format shader working directory is -51 characters bigger than the processId version (../../../../../Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Intermediate/Shaders/WorkingDirectory/15100/).
+[2020.12.31-06.06.30:667][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/TVGme/AppData/Local/Temp/UnrealShaderWorkingDir/66BB77904A8FBB8A769BD59C6B8D26EB/'.
+[2020.12.31-06.06.30:668][  0]LogXGEController: Cleaning working directory: C:/Users/TVGme/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.31-06.06.30:668][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.31-06.06.30:668][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.31-06.06.30:668][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.31-06.06.31:491][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.31-06.06.31:542][  0]LogDerivedDataCache: Loaded boot cache 0.05s 98MB C:/Users/TVGme/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.31-06.06.31:543][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/TVGme/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.12.31-06.06.31:543][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.31-06.06.31:543][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.31-06.06.31:543][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.31-06.06.31:543][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.31-06.06.31:554][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.31-06.06.31:554][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.31-06.06.31:554][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.31-06.06.31:555][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TVGme/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.31-06.06.31:555][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.31-06.06.31:555][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.31-06.06.31:601][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.31-06.06.31:602][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.31-06.06.31:629][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.12.31-06.06.31:836][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.31-06.06.31:938][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.31-06.06.31:938][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.31-06.06.31:938][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.31-06.06.31:938][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.31-06.06.31:938][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.31-06.06.31:953][  0]LogNetVersion: VR_Demonstration_1 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3666207377)
+[2020.12.31-06.06.32:355][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001D5B2F39BC0), frame # 0
+[2020.12.31-06.06.32:356][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5B2E89E40), frame # 0
+[2020.12.31-06.06.32:357][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5B2E93000), frame # 0
+[2020.12.31-06.06.32:418][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.056138 seconds
+[2020.12.31-06.06.32:422][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.12.31-06.06.32:422][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.12.31-06.06.32:422][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.31-06.06.32:727][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.31-06.06.32:732][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.31-06.06.32:795][  0]SourceControl: Source control is disabled
+[2020.12.31-06.06.32:795][  0]SourceControl: Source control is disabled
+[2020.12.31-06.06.32:797][  0]SourceControl: Source control is disabled
+[2020.12.31-06.06.32:800][  0]SourceControl: Source control is disabled
+[2020.12.31-06.06.32:804][  0]SourceControl: Source control is disabled
+[2020.12.31-06.06.33:024][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.31-06.06.33:039][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.31-06.06.33:039][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.31-06.06.33:078][  0]LogOcInput: OculusInput pre-init called
+[2020.12.31-06.06.33:346][  0]LogEngine: Initializing Engine...
+[2020.12.31-06.06.33:347][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.31-06.06.33:347][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.31-06.06.33:348][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.31-06.06.33:450][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.31-06.06.33:459][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.31-06.06.33:459][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5BD0B7C00), frame # 0
+[2020.12.31-06.06.33:459][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5BD0C3B00), frame # 0
+[2020.12.31-06.06.33:474][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.31-06.06.33:474][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.31-06.06.33:474][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.31-06.06.33:474][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.31-06.06.33:474][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.31-06.06.33:474][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.31-06.06.33:474][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.31-06.06.33:474][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.31-06.06.33:475][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.31-06.06.33:475][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.31-06.06.33:488][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.31-06.06.33:488][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.31-06.06.33:516][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.31-06.06.33:519][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.31-06.06.33:521][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.31-06.06.33:521][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.31-06.06.33:522][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.31-06.06.33:523][  0]LogInit: FAudioDevice initialized.
+[2020.12.31-06.06.33:523][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.31-06.06.33:593][  0]LogDerivedDataCache: Saved boot cache 0.07s 80MB C:/Users/TVGme/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.31-06.06.33:599][  0]LogInit: Texture streaming: Enabled
+[2020.12.31-06.06.33:612][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.31-06.06.33:612][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.31-06.06.33:614][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.31-06.06.33:673][  0]LogInit: Transaction tracking system initialized
+[2020.12.31-06.06.33:694][  0]BlueprintLog: New page: Editor Load
+[2020.12.31-06.06.33:745][  0]LocalizationService: Localization service is disabled
+[2020.12.31-06.06.33:883][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.31-06.06.33:883][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.31-06.06.33:999][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Content/' took 0.01s
+[2020.12.31-06.06.34:224][  0]SourceControl: Source control is disabled
+[2020.12.31-06.06.34:224][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.905
+[2020.12.31-06.06.34:224][  0]Cmd: MAP LOAD FILE="../../../../../Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.31-06.06.34:229][  0]LightingResults: New page: Lighting Build
+[2020.12.31-06.06.34:230][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.31-06.06.34:230][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.31-06.06.34:230][  0]MapCheck: New page: Map Check
+[2020.12.31-06.06.34:230][  0]LightingResults: New page: Lighting Build
+[2020.12.31-06.06.34:241][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5BD0B7C00), frame # 0
+[2020.12.31-06.06.34:241][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5BD0C3B00), frame # 0
+[2020.12.31-06.06.34:242][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.12.31-06.06.34:692][  0]LogAIModule: Creating AISystem for world StartupMap
+[2020.12.31-06.06.34:692][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5A6661C00), frame # 0
+[2020.12.31-06.06.34:692][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5BD556AC0), frame # 0
+[2020.12.31-06.06.34:699][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.31-06.06.34:716][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.12.31-06.06.34:716][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.31-06.06.34:716][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.18ms to complete.
+[2020.12.31-06.06.34:716][  0]LogFileHelpers: Loading map 'StartupMap' took 0.492
+[2020.12.31-06.06.34:718][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.399
+[2020.12.31-06.06.34:850][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.31-06.06.34:856][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.31-06.06.34:862][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.31-06.06.34:871][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.31-06.06.34:877][  0]LogCollectionManager: Loaded 0 collections in 0.001597 seconds
+[2020.12.31-06.06.34:889][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Saved/Collections/' took 0.00s
+[2020.12.31-06.06.34:889][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Content/Developers/TVGme/Collections/' took 0.00s
+[2020.12.31-06.06.34:889][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Content/Collections/' took 0.00s
+[2020.12.31-06.06.34:889][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 3427 classes and 821 folders.
+[2020.12.31-06.06.34:893][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.31-06.06.34:941][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.31-06.06.34:942][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2020.12.31-06.06.35:046][  0]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.31-06.06.35:049][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.31-06.06.35:053][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.31-06.06.35:120][  0]LogRenderer: Reallocating scene render targets to support 1304x548 Format 26 NumSamples 1 (Frame:1).
+[2020.12.31-06.06.35:258][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.31-06.06.35:258][  0]LogLoad: (Engine Initialization) Total time: 7.94 seconds
+[2020.12.31-06.06.35:258][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.31-06.06.35:301][  0]LogAssetRegistry: Asset discovery search completed in 3.6724 seconds
+[2020.12.31-06.06.35:304][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.12.31-06.06.35:305][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.31-06.06.35:335][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.31-06.06.52:251][993]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.31-06.06.53:506][993]LogMaterial: Display: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2020.12.31-06.06.53:522][993]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.12.31-06.06.53:522][993]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.12.31-06.06.53:522][993]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.12.31-06.06.53:522][993]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.12.31-06.06.53:522][993]LogMaterial: Display: Missing cached shader map for material M_Heat_Distortion, compiling. 
+[2020.12.31-06.06.53:548][993]LogMaterial: Display: Missing cached shader map for material M_Radial_Gradient, compiling. 
+[2020.12.31-06.06.53:578][993]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 38
+[2020.12.31-06.06.53:578][993]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 33
+[2020.12.31-06.06.53:578][993]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 28
+[2020.12.31-06.06.53:579][993]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2020.12.31-06.06.53:579][993]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2020.12.31-06.06.53:729][993]LogMaterial: Display: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2020.12.31-06.06.53:758][993]LogMaterial: Display: Missing cached shader map for material M_Spark, compiling. 
+[2020.12.31-06.06.53:788][993]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2020.12.31-06.06.53:980][993]LogStaticMesh: Building static mesh Floor_400x400...
+[2020.12.31-06.06.53:982][993]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.12.31-06.06.54:207][993]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 306
+[2020.12.31-06.06.54:207][993]LogMaterial: Display: Missing cached shader map for material M_TableRound, compiling. 
+[2020.12.31-06.06.54:296][993]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 296
+[2020.12.31-06.06.54:296][993]LogMaterial: Display: Missing cached shader map for material M_StatueGlass, compiling. 
+[2020.12.31-06.06.54:359][993]LogMaterial: Display: Missing cached shader map for material M_Statue, compiling. 
+[2020.12.31-06.06.54:390][993]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2020.12.31-06.06.54:443][993]LogMaterial: Display: Missing cached shader map for material M_Frame, compiling. 
+[2020.12.31-06.06.54:556][993]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2020.12.31-06.06.54:606][993]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 472
+[2020.12.31-06.06.54:606][993]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.12.31-06.06.54:665][993]LogMaterial: Display: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2020.12.31-06.06.54:696][993]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2020.12.31-06.06.54:727][993]LogMaterial: Display: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2020.12.31-06.06.54:756][993]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2020.12.31-06.06.54:786][993]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2020.12.31-06.06.54:817][993]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2020.12.31-06.06.54:848][993]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2020.12.31-06.06.54:877][993]LogMaterial: Display: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2020.12.31-06.06.54:906][993]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 654
+[2020.12.31-06.06.54:906][993]LogMaterial: Display: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2020.12.31-06.06.54:937][993]LogMaterial: Display: Missing cached shader map for material M_Tech_Hex_Tile, compiling. 
+[2020.12.31-06.06.54:974][993]LogMaterial: Display: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2020.12.31-06.06.55:004][993]LogMaterial: Display: Missing cached shader map for material M_Rock_Slate, compiling. 
+[2020.12.31-06.06.55:034][993]LogMaterial: Display: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2020.12.31-06.06.55:066][993]LogMaterial: Display: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2020.12.31-06.06.55:097][993]LogMaterial: Display: Missing cached shader map for material M_Rock_Basalt, compiling. 
+[2020.12.31-06.06.55:132][993]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2020.12.31-06.06.55:160][993]LogMaterial: Display: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2020.12.31-06.06.55:192][993]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2020.12.31-06.06.55:222][993]LogMaterial: Display: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2020.12.31-06.06.55:253][993]LogMaterial: Display: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2020.12.31-06.06.55:282][993]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2020.12.31-06.06.55:311][993]LogMaterial: Display: Missing cached shader map for material M_Metal_Brushed_Nickel, compiling. 
+[2020.12.31-06.06.55:340][993]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2020.12.31-06.06.55:371][993]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2020.12.31-06.06.55:401][993]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2020.12.31-06.06.55:431][993]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.12.31-06.06.55:462][993]LogMaterial: Display: Missing cached shader map for material M_Concrete_Poured, compiling. 
+[2020.12.31-06.06.55:492][993]LogMaterial: Display: Missing cached shader map for material M_Concrete_Panels, compiling. 
+[2020.12.31-06.06.55:524][993]LogMaterial: Display: Missing cached shader map for material M_Concrete_Grime, compiling. 
+[2020.12.31-06.06.55:557][993]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2020.12.31-06.06.55:592][993]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Rough, compiling. 
+[2020.12.31-06.06.55:630][993]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2020.12.31-06.06.55:666][993]LogMaterial: Display: Missing cached shader map for material M_Ceramic_Tile_Checker, compiling. 
+[2020.12.31-06.06.55:701][993]LogMaterial: Display: Missing cached shader map for material M_Brick_Hewn_Stone, compiling. 
+[2020.12.31-06.06.55:731][993]LogMaterial: Display: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2020.12.31-06.06.55:760][993]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2020.12.31-06.06.55:870][993]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2020.12.31-06.06.55:902][993]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1340
+[2020.12.31-06.06.55:902][993]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2020.12.31-06.06.55:933][993]LogMaterial: Display: Missing cached shader map for material AntiAliasedTextMaterialTranslucent, compiling. 
+[2020.12.31-06.06.55:968][993]LogMaterial: Display: Missing cached shader map for material M_Lamp, compiling. 
+[2020.12.31-06.06.56:169][993]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2020.12.31-06.06.56:196][993]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1435
+[2020.12.31-06.06.56:201][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.12.31-06.06.56:204][993]Cmd: MAP LOAD FILE="../../../../../Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.31-06.06.56:204][993]LightingResults: New page: Lighting Build
+[2020.12.31-06.06.56:204][993]LoadErrors: New page: Loading map: StarterMap.umap
+[2020.12.31-06.06.56:238][993]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.31-06.06.56:238][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.31-06.06.56:238][993]MapCheck: New page: Map Check
+[2020.12.31-06.06.56:238][993]LightingResults: New page: Lighting Build
+[2020.12.31-06.06.56:258][993]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5A6661C00), frame # 1993
+[2020.12.31-06.06.56:258][993]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5BD556AC0), frame # 1993
+[2020.12.31-06.06.56:260][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.12.31-06.06.56:519][993]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.31-06.06.56:519][993]LogAIModule: Creating AISystem for world StarterMap
+[2020.12.31-06.06.56:519][993]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5FDC85000), frame # 1993
+[2020.12.31-06.06.56:519][993]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5E2530180), frame # 1993
+[2020.12.31-06.06.56:547][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.12.31-06.06.56:628][993]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.31-06.06.56:629][993]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.371ms to complete.
+[2020.12.31-06.06.56:629][993]LogFileHelpers: Loading map 'StarterMap' took 0.425
+[2020.12.31-06.06.57:803][ 36]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1425
+[2020.12.31-06.06.58:451][ 62]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1415
+[2020.12.31-06.07.02:611][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1405
+[2020.12.31-06.07.02:737][341]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1395
+[2020.12.31-06.07.03:458][387]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1385
+[2020.12.31-06.07.03:747][402]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1375
+[2020.12.31-06.07.05:652][556]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1365
+[2020.12.31-06.07.12:276][882]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1355
+[2020.12.31-06.07.12:276][882]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1345
+[2020.12.31-06.07.12:276][882]LogMaterial: Display: Missing cached shader map for material M_AssetPlatform, compiling. 
+[2020.12.31-06.07.12:418][882]LogMaterial: Display: Missing cached shader map for material M_GreyBall, compiling. 
+[2020.12.31-06.07.12:446][882]LogMaterial: Display: Missing cached shader map for material M_ColorGrid, compiling. 
+[2020.12.31-06.07.12:473][882]LogMaterial: Display: Missing cached shader map for material M_ClearCoatBlack, compiling. 
+[2020.12.31-06.07.12:503][882]LogMaterial: Display: Missing cached shader map for material M_ClearCoat, compiling. 
+[2020.12.31-06.07.12:754][882]LogMaterial: Display: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2020.12.31-06.07.12:759][882]LogMaterial: Display: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2020.12.31-06.07.12:766][882]LogMaterial: Display: Missing cached shader map for material M_LightStage_Arrows, compiling. 
+[2020.12.31-06.07.17:136][148]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1467
+[2020.12.31-06.07.17:406][164]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1457
+[2020.12.31-06.07.18:531][231]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1447
+[2020.12.31-06.07.18:852][249]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1437
+[2020.12.31-06.07.19:932][314]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1427
+[2020.12.31-06.07.22:873][494]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1417
+[2020.12.31-06.07.23:448][524]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1407
+[2020.12.31-06.07.25:869][666]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2020.12.31-06.07.25:889][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.12.31-06.07.25:897][666]Cmd: MAP LOAD FILE="../../../../../Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.31-06.07.25:897][666]LightingResults: New page: Lighting Build
+[2020.12.31-06.07.25:897][666]LoadErrors: New page: Loading map: StartupMap.umap
+[2020.12.31-06.07.25:904][666]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.31-06.07.25:905][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.31-06.07.25:906][666]MapCheck: New page: Map Check
+[2020.12.31-06.07.25:906][666]LightingResults: New page: Lighting Build
+[2020.12.31-06.07.25:929][666]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5E2530180), frame # 3666
+[2020.12.31-06.07.25:929][666]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5FDC85000), frame # 3666
+[2020.12.31-06.07.25:934][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.12.31-06.07.25:960][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.12.31-06.07.25:983][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.12.31-06.07.26:001][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.12.31-06.07.26:261][666]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.31-06.07.26:261][666]LogAIModule: Creating AISystem for world StartupMap
+[2020.12.31-06.07.26:261][666]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5D8A28600), frame # 3666
+[2020.12.31-06.07.26:261][666]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5FDB81800), frame # 3666
+[2020.12.31-06.07.26:283][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.12.31-06.07.26:355][666]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.31-06.07.26:355][666]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.308ms to complete.
+[2020.12.31-06.07.26:356][666]LogFileHelpers: Loading map 'StartupMap' took 0.458
+[2020.12.31-06.07.26:488][669]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1397
+[2020.12.31-06.07.26:635][671]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1387
+[2020.12.31-06.07.26:848][691]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1377
+[2020.12.31-06.07.27:263][721]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1367
+[2020.12.31-06.07.28:366][815]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1357
+[2020.12.31-06.07.31:116][976]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.12.31-06.07.31:116][976]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.12.31-06.07.31:116][976]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2020.12.31-06.07.31:116][976]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X256)
+[2020.12.31-06.07.31:116][976]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2020.12.31-06.07.31:116][976]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.12.31-06.07.31:116][976]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.12.31-06.07.31:116][976]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.12.31-06.07.31:116][976]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.12.31-06.07.31:150][976]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2020.12.31-06.07.31:171][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.12.31-06.07.31:184][976]LightingResults: New page: Lighting Build
+[2020.12.31-06.07.31:184][976]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2020.12.31-06.07.31:207][976]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.31-06.07.31:207][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.31-06.07.31:208][976]MapCheck: New page: Map Check
+[2020.12.31-06.07.31:208][976]LightingResults: New page: Lighting Build
+[2020.12.31-06.07.31:226][976]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5FDB81800), frame # 3976
+[2020.12.31-06.07.31:226][976]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5D8A28600), frame # 3976
+[2020.12.31-06.07.31:229][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.12.31-06.07.31:489][976]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.31-06.07.31:489][976]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.12.31-06.07.31:489][976]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5A6901E00), frame # 3976
+[2020.12.31-06.07.31:489][976]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5F147D300), frame # 3976
+[2020.12.31-06.07.31:512][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.12.31-06.07.31:589][976]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.31-06.07.31:590][976]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.306ms to complete.
+[2020.12.31-06.07.31:590][976]LogFileHelpers: Loading map 'MotionControllerMap' took 0.406
+[2020.12.31-06.07.36:443][414]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1347
+[2020.12.31-06.07.37:180][480]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1337
+[2020.12.31-06.07.39:485][684]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1327
+[2020.12.31-06.07.40:775][724]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1317
+[2020.12.31-06.07.40:775][724]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.12.31-06.07.40:775][724]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.12.31-06.07.40:775][724]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.12.31-06.07.40:775][724]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X256)
+[2020.12.31-06.07.40:775][724]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X512)
+[2020.12.31-06.07.40:775][724]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.12.31-06.07.40:775][724]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.12.31-06.07.40:775][724]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.12.31-06.07.40:777][724]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.12.31-06.07.40:817][724]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap
+[2020.12.31-06.07.40:837][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.12.31-06.07.40:848][724]LightingResults: New page: Lighting Build
+[2020.12.31-06.07.40:848][724]LoadErrors: New page: Loading map: HMDLocomotionMap.umap
+[2020.12.31-06.07.40:899][724]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.31-06.07.40:899][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.31-06.07.40:899][724]MapCheck: New page: Map Check
+[2020.12.31-06.07.40:899][724]LightingResults: New page: Lighting Build
+[2020.12.31-06.07.40:925][724]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5F147D300), frame # 4724
+[2020.12.31-06.07.40:926][724]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5A6901E00), frame # 4724
+[2020.12.31-06.07.40:928][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.12.31-06.07.41:237][724]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.31-06.07.41:237][724]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2020.12.31-06.07.41:237][724]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5DA4A1400), frame # 4724
+[2020.12.31-06.07.41:237][724]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5E2500E00), frame # 4724
+[2020.12.31-06.07.41:262][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.12.31-06.07.41:339][724]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.31-06.07.41:340][724]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.248ms to complete.
+[2020.12.31-06.07.41:340][724]LogFileHelpers: Loading map 'HMDLocomotionMap' took 0.492
+[2020.12.31-06.07.42:098][777]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1307
+[2020.12.31-06.07.42:354][799]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1297
+[2020.12.31-06.07.42:579][821]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1287
+[2020.12.31-06.07.42:720][835]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1277
+[2020.12.31-06.07.46:378][136]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2020.12.31-06.07.46:397][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.12.31-06.07.46:400][136]Cmd: MAP LOAD FILE="../../../../../Users/TVGme/Documents/ShitKraken/FS_Clone/VR-SpinSwitchExample/VR_Demonstration_1/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.31-06.07.46:400][136]LightingResults: New page: Lighting Build
+[2020.12.31-06.07.46:400][136]LoadErrors: New page: Loading map: StartupMap.umap
+[2020.12.31-06.07.46:402][136]LogWorld: UWorld::CleanupWorld for HMDLocomotionMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.31-06.07.46:402][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.31-06.07.46:402][136]MapCheck: New page: Map Check
+[2020.12.31-06.07.46:402][136]LightingResults: New page: Lighting Build
+[2020.12.31-06.07.46:423][136]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5E2500E00), frame # 5136
+[2020.12.31-06.07.46:423][136]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5DA4A1400), frame # 5136
+[2020.12.31-06.07.46:425][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.12.31-06.07.46:862][136]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.31-06.07.46:862][136]LogAIModule: Creating AISystem for world StartupMap
+[2020.12.31-06.07.46:862][136]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5D6E24A00), frame # 5136
+[2020.12.31-06.07.46:862][136]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5F147F880), frame # 5136
+[2020.12.31-06.07.46:885][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.12.31-06.07.46:960][136]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.31-06.07.46:961][136]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.333ms to complete.
+[2020.12.31-06.07.46:961][136]LogFileHelpers: Loading map 'StartupMap' took 0.561
+[2020.12.31-06.07.48:815][280]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1267
+[2020.12.31-06.07.51:139][477]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1257
+[2020.12.31-06.07.53:304][659]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1247
+[2020.12.31-06.07.54:021][707]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1237
+[2020.12.31-06.07.56:149][853]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1227
+[2020.12.31-06.07.57:878][942]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1217
+[2020.12.31-06.07.58:340][981]LogObjectTools: Deleting 2 worlds: /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap, /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2020.12.31-06.07.58:340][981]LogObjectTools: Currently 1 active worlds: /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2020.12.31-06.07.58:360][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.12.31-06.08.01:484][981]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.31-06.08.01:524][981]LogWorld: UWorld::CleanupWorld for HMDLocomotionMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.31-06.08.01:524][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.31-06.08.01:550][981]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.31-06.08.01:550][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.31-06.08.01:694][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.12.31-06.08.01:715][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.12.31-06.08.01:736][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.12.31-06.08.01:756][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.12.31-06.08.01:796][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.12.31-06.08.01:815][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.31-06.08.07:951][466]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1207
+[2020.12.31-06.08.12:029][694]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1197
+[2020.12.31-06.08.13:234][801]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1187
+[2020.12.31-06.08.23:331][582]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1177
+[2020.12.31-06.08.30:472][ 94]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1167
+[2020.12.31-06.08.30:655][109]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1157
+[2020.12.31-06.08.31:355][149]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1147
+[2020.12.31-06.08.36:473][469]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1137
+[2020.12.31-06.08.37:139][511]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1127
+[2020.12.31-06.08.40:717][729]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1117
+[2020.12.31-06.08.44:400][931]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1107
+[2020.12.31-06.08.45:335][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.12.31-06.08.45:990][983]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1097
+[2020.12.31-06.08.46:469][983]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1087
+[2020.12.31-06.08.47:681][983]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1077
+[2020.12.31-06.08.48:240][983]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.31-06.08.49:909][983]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1067
+[2020.12.31-06.08.49:909][983]LogUObjectGlobals: Force Deleting 24 Package(s):
+	Asset Name: /Game/StarterContent/Audio/Collapse01.Collapse01
+	Asset Name: /Game/StarterContent/Audio/Collapse02.Collapse02
+	Asset Name: /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue
+	Asset Name: /Game/StarterContent/Audio/Explosion01.Explosion01
+	Asset Name: /Game/StarterContent/Audio/Explosion02.Explosion02
+	Asset Name: /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue
+	Asset Name: /Game/StarterContent/Audio/Fire01.Fire01
+	Asset Name: /Game/StarterContent/Audio/Fire01_Cue.Fire01_Cue
+	Asset Name: /Game/StarterContent/Audio/Fire_Sparks01.Fire_Sparks01
+	Asset Name: /Game/StarterContent/Audio/Fire_Sparks01_Cue.Fire_Sparks01_Cue
+[2020.12.31-06.08.50:016][983]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1057
+[2020.12.31-06.08.52:098][983]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1047
+[2020.12.31-06.08.53:514][983]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1037
+[2020.12.31-06.08.53:746][983]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1027
+[2020.12.31-06.08.54:155][983]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1017
+[2020.12.31-06.08.56:510][983]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1007
+[2020.12.31-06.08.57:252][983]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 997
+[2020.12.31-06.08.58:356][983]LogSlate: Window 'Message' being destroyed
+[2020.12.31-06.08.58:364][983]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Collapse01.Collapse01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Collapse01.Collapse01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.31-06.08.58:364][983]LogObjectTools: Warning: ForceDeleteObject failed to delete Collapse01, this package is now potentially corrupt
+[2020.12.31-06.08.58:583][983]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 987
+[2020.12.31-06.08.59:090][983]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 977
+[2020.12.31-06.09.00:458][983]LogSlate: Window 'Message' being destroyed
+[2020.12.31-06.09.00:466][983]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Collapse02.Collapse02 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Collapse02.Collapse02:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue:SoundNodeWavePlayer_1 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.31-06.09.00:466][983]LogObjectTools: Warning: ForceDeleteObject failed to delete Collapse02, this package is now potentially corrupt
+[2020.12.31-06.09.00:870][983]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 967
+[2020.12.31-06.09.01:357][983]LogSlate: Window 'Message' being destroyed
+[2020.12.31-06.09.01:365][983]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue:SoundNodeWavePlayer_1 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.31-06.09.01:365][983]LogObjectTools: Warning: ForceDeleteObject failed to delete Explosion01, this package is now potentially corrupt
+[2020.12.31-06.09.02:063][983]LogSlate: Window 'Message' being destroyed
+[2020.12.31-06.09.02:074][983]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Explosion02.Explosion02 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Explosion02.Explosion02:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue:SoundNodeWavePlayer_2 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.31-06.09.02:074][983]LogObjectTools: Warning: ForceDeleteObject failed to delete Explosion02, this package is now potentially corrupt
+[2020.12.31-06.09.02:835][983]LogSlate: Window 'Message' being destroyed
+[2020.12.31-06.09.02:843][983]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Fire01.Fire01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Fire01.Fire01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Fire01_Cue.Fire01_Cue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.31-06.09.02:843][983]LogObjectTools: Warning: ForceDeleteObject failed to delete Fire01, this package is now potentially corrupt
+[2020.12.31-06.09.03:355][983]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 957
+[2020.12.31-06.09.03:445][983]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 947
+[2020.12.31-06.09.03:661][983]LogSlate: Window 'Message' being destroyed
+[2020.12.31-06.09.03:669][983]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Fire_Sparks01.Fire_Sparks01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Fire_Sparks01.Fire_Sparks01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Fire_Sparks01_Cue.Fire_Sparks01_Cue:SoundNodeWavePlayer_1 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.31-06.09.03:669][983]LogObjectTools: Warning: ForceDeleteObject failed to delete Fire_Sparks01, this package is now potentially corrupt
+[2020.12.31-06.09.04:452][983]LogSlate: Window 'Message' being destroyed
+[2020.12.31-06.09.04:460][983]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Light01.Light01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Light01.Light01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Light01_Cue.Light01_Cue:SoundNodeWavePlayer_2 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.31-06.09.04:460][983]LogObjectTools: Warning: ForceDeleteObject failed to delete Light01, this package is now potentially corrupt
+[2020.12.31-06.09.05:061][983]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 937
+[2020.12.31-06.09.06:341][983]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 927
+[2020.12.31-06.09.07:312][983]LogSlate: Window 'Message' being destroyed
+[2020.12.31-06.09.07:320][983]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Light02.Light02 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Light02.Light02:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Light02_Cue.Light02_Cue:SoundNodeWavePlayer_3 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.31-06.09.07:321][983]LogObjectTools: Warning: ForceDeleteObject failed to delete Light02, this package is now potentially corrupt
+[2020.12.31-06.09.07:770][983]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 917
+[2020.12.31-06.09.08:024][983]LogSlate: Window 'Message' being destroyed
+[2020.12.31-06.09.08:034][983]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Smoke01.Smoke01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Smoke01.Smoke01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Smoke01_Cue.Smoke01_Cue:SoundNodeWavePlayer_4 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.31-06.09.08:034][983]LogObjectTools: Warning: ForceDeleteObject failed to delete Smoke01, this package is now potentially corrupt
+[2020.12.31-06.09.08:242][983]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 907
+[2020.12.31-06.09.09:519][983]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 897
+[2020.12.31-06.09.10:134][983]LogSlate: Window 'Message' being destroyed
+[2020.12.31-06.09.10:142][983]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Starter_Music01.Starter_Music01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Starter_Music01.Starter_Music01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Starter_Music_Cue.Starter_Music_Cue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.31-06.09.10:143][983]LogObjectTools: Warning: ForceDeleteObject failed to delete Starter_Music01, this package is now potentially corrupt
+[2020.12.31-06.09.11:116][983]LogSlate: Window 'Message' being destroyed
+[2020.12.31-06.09.11:125][983]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Steam01.Steam01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Steam01.Steam01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Steam01_Cue.Steam01_Cue:SoundNodeWavePlayer_5 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.31-06.09.11:125][983]LogObjectTools: Warning: ForceDeleteObject failed to delete Steam01, this package is now potentially corrupt
+[2020.12.31-06.09.11:355][983]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 887
+[2020.12.31-06.09.12:615][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.12.31-06.09.12:640][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.12.31-06.09.12:660][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.12.31-06.09.12:677][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.12.31-06.09.12:695][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.12.31-06.09.12:713][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.12.31-06.09.12:734][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.12.31-06.09.12:751][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.12.31-06.09.12:770][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.31-06.09.12:788][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.12.31-06.09.12:805][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.12.31-06.09.12:823][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.12.31-06.09.12:841][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.12.31-06.09.12:862][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.12.31-06.09.12:879][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.12.31-06.09.12:887][983]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.31-06.09.13:832][983]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 877
+[2020.12.31-06.09.13:832][983]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.944 s
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: === Handled ensure: ===
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: 
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 2897]
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: 
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: 					from the file system manually: 
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: /Game/StarterContent/Audio/Collapse01
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: /Game/StarterContent/Audio/Collapse02
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: /Game/StarterContent/Audio/Explosion01
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: /Game/StarterContent/Audio/Explosion02
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: /Game/StarterContent/Audio/Fire01
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: /Game/StarterContent/Audio/Fire_Sparks01
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: /Game/StarterContent/Audio/Light01
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: /Game/StarterContent/Audio/Light02
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: /Game/StarterContent/Audio/Smoke01
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: /Game/StarterContent/Audio/Starter_Music01
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: /Game/StarterContent/Audio/Steam01
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: Stack: 
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: [Callstack] 0x00007ffb3f25eb38 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.31-06.09.13:833][983]LogOutputDevice: Error: [Callstack] 0x00007ffb3eb46d19 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb3e2f9e39 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb3e59d43e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb3e596dc7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5ad5207e UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5ad6b27e UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5abb2dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5ac369cf UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5ac1f4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5ac12392 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb64427f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb64415c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb6442a619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb644117d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb9416e858 USER32.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb9416e299 USER32.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb6442b9d9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5ac40d5d UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5abdbdb7 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb3e62f00e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb3eb3af1c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb3eb3a356 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb3b5b977e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb3b6e75d6 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb3b6c74ae UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5abef238 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5acdab51 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5ace1320 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5acba937 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5ad5207e UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5ad6b27e UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5ace2a95 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5abb2dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:834][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5ac369cf UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5ac1f4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: [Callstack] 0x00007ffb5ac12392 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: [Callstack] 0x00007ffb64427f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: [Callstack] 0x00007ffb64415c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: [Callstack] 0x00007ffb6442a619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: [Callstack] 0x00007ffb644117d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: [Callstack] 0x00007ffb9416e858 USER32.dll!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: [Callstack] 0x00007ffb9416e299 USER32.dll!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: [Callstack] 0x00007ffb6442bb34 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: [Callstack] 0x00007ff769c568c4 UE4Editor.exe!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: [Callstack] 0x00007ff769c6ba7c UE4Editor.exe!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: [Callstack] 0x00007ff769c6bb5a UE4Editor.exe!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: [Callstack] 0x00007ff769c7e31d UE4Editor.exe!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: [Callstack] 0x00007ff769c8145a UE4Editor.exe!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: [Callstack] 0x00007ffb92cb7034 KERNEL32.DLL!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: [Callstack] 0x00007ffb9449d0d1 ntdll.dll!UnknownFunction []
+[2020.12.31-06.09.13:835][983]LogOutputDevice: Error: 
